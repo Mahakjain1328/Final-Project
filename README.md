@@ -14,42 +14,42 @@ Power BI: Used for interactive data visualization and trend analysis
 
 Engineered relevant features including:
 
-Gender
+ - Gender
 
-Age groups
+ - Age groups
 
-Treatment types
+ - Treatment types
 
-Day of the week
+ - Day of the week
 
-SMS reminder status
+ - SMS reminder status
 
 2. Model Development
 Trained a Decision Tree Classifier to predict the likelihood of a patient attending or missing an appointment.
 
 Identified key predictors:
 
-Age group
+ - Age group
 
-SMS reminder
+ - SMS reminder
 
-Day of the week
+ - Day of the week
 
 3. Dashboard Analysis (Power BI)
 Age Insight: The 60+ age group had the highest no-show rate.
 
-Weekday Trends: Thursday and Friday recorded the most missed appointments.
+ - Weekday Trends: Thursday and Friday recorded the most missed appointments.
 
-SMS Effectiveness: Patients who received SMS reminders showed a 75% attendance rate.
+- SMS Effectiveness: Patients who received SMS reminders showed a 75% attendance rate.
 
-Other Factors: Gender and treatment type showed minimal correlation with appointment attendance.
+ - Other Factors: Gender and treatment type showed minimal correlation with appointment attendance.
 
 📦 Final Deliverables
 Component	Description
-Prediction Model	Decision Tree classifier for predicting appointment attendance
-Power BI Dashboard	Visual analytics highlighting trends by age, reminders, and weekdays
+ - Prediction Model	Decision Tree classifier for predicting appointment attendance
+ - Power BI Dashboard	Visual analytics highlighting trends by age, reminders, and weekdays
 Optimization Recommendations	
 
-Prioritize SMS reminders, especially for the 60+ age group
+ - Prioritize SMS reminders, especially for the 60+ age group
 
-Consider reducing appointments on Thursdays and Fridays
+ - Consider reducing appointments on Thursdays and Fridays
