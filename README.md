@@ -1,4 +1,5 @@
 ✅ Project Summary: Healthcare Appointment No-Show Prediction
+
 📌 Objective: To build a predictive model that identifies patients at risk of missing healthcare appointments and to provide actionable insights for improving scheduling efficiency and resource allocation.
 
 🔧 Tools & Technologies
